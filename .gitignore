@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.arena/
+.vite/
+*.log
+.DS_Store
